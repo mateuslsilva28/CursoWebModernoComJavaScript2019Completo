@@ -1,7 +1,5 @@
 //Mapear um array para outros array do mesmo tamanho com dados alterados
 
-
-
 //Map é um for com propósito de alteração
 const array = [2, 3,4,5]
 const array2 = array.map(valor => valor*2)
